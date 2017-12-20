@@ -1,0 +1,12 @@
+[submodule "submodules/oracleui"]
+	path = submodules/oracleui
+	url = git@github.com:LibreCash/oracle-ui.git
+[submodule "submodules/oraclecore"]
+	path = submodules/oraclecore
+	url = git@github.com:LibreCash/oracle-core.git
+[submodule "submodules/lightnode"]
+	path = submodules/lightnode
+	url = git@github.com:LibreCash/oracle-lightnode.git
+[submodule "submodules/masternode"]
+	path = submodules/masternode
+	url = git@github.com:LibreCash/oracle-masternode.git
