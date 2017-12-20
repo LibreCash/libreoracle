@@ -10,3 +10,6 @@
 [submodule "submodules/masternode"]
 	path = submodules/masternode
 	url = git@github.com:LibreCash/oracle-masternode.git
+[submodule "submodules/oracledeploy"]
+	path = submodules/oracledeploy
+	url = git@github.com:LibreCash/oracle-deploy.git
