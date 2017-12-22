@@ -13,3 +13,6 @@
 [submodule "submodules/oracledeploy"]
 	path = submodules/oracledeploy
 	url = git@github.com:LibreCash/oracle-deploy.git
+[submodule "deploy"]
+	path = deploy
+	url = git@github.com:LibreCash/oracle-deploy.git
